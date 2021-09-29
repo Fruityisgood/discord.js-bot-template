@@ -16,11 +16,11 @@ client.on('ready', async () => {
     console.log('Bot is online!')
 
     let statuses = [
-        `Among Us`,
-        `with Fruity`,
-        `some gibberish`,
-        `Discord`,
-        `Modded Among Us`,
+        `Status 1`,
+        `Status 2`,
+        `Status 3`,
+        `Status 4`,
+        `Status 5`,
     ]
 
     setInterval(function () {
@@ -32,4 +32,4 @@ client.on('ready', async () => {
 })
 
 
-client.login('ODU3MDY5MDQ0OTYzMDgyMjUw.YNKNvw.oKHxnzFw0tLn0N50pVZsPXFkmcc')
+client.login('bot_token')
