@@ -1,6 +1,6 @@
 @ECHO OFF
 
-ECHO Setting up your bot...
+ECHO Setting up your bot... (Press a key to start)
 
 PAUSE
 
