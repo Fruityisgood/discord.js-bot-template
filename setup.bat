@@ -4,10 +4,6 @@ ECHO Setting up your bot...
 
 PAUSE
 
-npm init
-
-ECHO Done setting up your package.json file
-
 npm install fs
 
 npm install express
