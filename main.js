@@ -42,4 +42,9 @@ client.on('message', message =>{
     } 
 });
 
+    if(command === 'tutorial'){
+        client.commands.get('tutorial').execute(message, args);
+    } 
+});
+
 client.login('bot_token')
